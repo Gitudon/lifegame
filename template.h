@@ -1,0 +1,1 @@
+void settemplate(int a[][30],int b);
